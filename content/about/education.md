@@ -47,6 +47,7 @@ experience:
     date_end: '2024-06-30'
     description: | 
       Graduated with Distinction (GPA: 91.2%)
+      
       Courses Included:  
       - Discourse Analysis: Explored textuality and texture, focusing on discourse structure, coherence, and cohesion.  
       - Conversation Analysis and Its Application: Analyzed patterns and organization of spoken interactions, including turn-taking, repairs, and the implicit rules of conversation.  

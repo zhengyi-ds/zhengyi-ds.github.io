@@ -68,6 +68,6 @@ social:
 #email: ""
 ---
 
-I'm a graduate student in Data Science Computational Linguistics at the University of British Columbia, specializing in Natural Language Processing, Machine Learning, and Data Science. My tech stack includes Python, SQL, MongoDB, and R, which I use to build data-driven solutions and analyze complex linguistic patterns.
+I'm a graduate student in Data Science Computational Linguistics at the University of British Columbia, specializing in Natural Language Processing, Machine Learning, and Data Science. My tech stack includes Python, R, SQL and MongoDB, which I use to build data-driven solutions and analyze complex linguistic patterns.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
