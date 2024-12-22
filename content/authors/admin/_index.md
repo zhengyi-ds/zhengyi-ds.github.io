@@ -53,8 +53,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/zhengyi-s-341210296
   - icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+    icon_pack: ai
+    link: files/cv.pdf
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
