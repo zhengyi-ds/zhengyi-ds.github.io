@@ -25,17 +25,17 @@ bio: My interests include nlp, machine learning and data science.
 #- Computational Linguistics
 #- Information Retrieval
 
-education:
- courses:
- - course: Master of Data Science Computational Linguistics
-   institution: University of British Columbia
-   year: 2025
- - course: Exchange Program in Quantitative Social Analysis
-   institution: Hong Kong University of Science and Technology
-   year: 2023
- - course: BA in English Language and Literature (Global Studies Honor Program)
-   institution: Shantou University
-   year: 2024
+# education:
+#  courses:
+#  - course: Master of Data Science Computational Linguistics
+#    institution: University of British Columbia
+#    year: 2025
+#  - course: Exchange Program in Quantitative Social Analysis
+#    institution: Hong Kong University of Science and Technology
+#    year: 2023
+#  - course: BA in English Language and Literature (Global Studies Honor Program)
+#    institution: Shantou University
+#    year: 2024
 
 
 # Social/Academic Networking
