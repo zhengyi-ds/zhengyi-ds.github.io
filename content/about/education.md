@@ -38,6 +38,8 @@ experience:
     location: ''
     date_start: '2023-02-01'
     date_end: '2023-06-01'
+    description: | 
+      Developed quantitative research skills in statistical inference, including t-tests and ANOVA. Specialized in demography and epidemiology, exploring the interplay between population dynamics and health outcomes.
   - title: BA in English Language and Literature (Global Studies Honor Program)
     company: Shantou University
     company_url: ''
@@ -49,9 +51,10 @@ experience:
       Graduated with Distinction (GPA: 91.2%)
       
       Courses Included:  
-      - Discourse Analysis: Explored textuality and texture, focusing on discourse structure, coherence, and cohesion.  
-      - Conversation Analysis and Its Application: Analyzed patterns and organization of spoken interactions, including turn-taking, repairs, and the implicit rules of conversation.  
-      - Introduction to Linguistics: Covered core areas of linguistics, including Phonetics, Phonology, Morphology, Semantics, Syntax, and Pragmatics.
+
+      - **Discourse Analysis**: Explored textuality and texture, focusing on discourse structure, coherence, and cohesion.  
+      - **Conversation Analysis and Its Application**: Analyzed patterns and organization of spoken interactions, including turn-taking, repairs, and the implicit rules of conversation.  
+      - **Introduction to Linguistics**: Covered core areas of linguistics, including Phonetics, Phonology, Morphology, Semantics, Syntax, and Pragmatics.
 
 design:
   columns: '1'
