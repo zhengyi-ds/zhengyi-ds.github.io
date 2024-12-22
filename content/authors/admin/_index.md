@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Zhengyi Shan
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👩🏻‍💻️
 
 # Organizations/Affiliations
 #organizations:
@@ -18,24 +18,25 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include nlp, machine learning and data science.
 
 #interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+ courses:
+ - course: Master of Data Science Computational Linguistics
+   institution: University of British Columbia
+   year: 2025
+ - course: Exchange Program in Quantitative Social Analysis
+   institution: Hong Kong University of Science and Technology
+   year: 2023
+ - course: BA in English Language and Literature (Global Studies Honor Program)
+   institution: Shantou University
+   year: 2024
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,13 +45,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'mailto:zhengyi.ds@gmail.com' # For a direct email link, use "mailto:test@example.org".
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://github.com/zhengyi-ds
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/zhengyi-s-341210296
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -58,16 +59,14 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a graduate student in Data Science Computational Linguistics at the University of British Columbia, specializing in Natural Language Processing, Machine Learning, and Data Science. My tech stack includes Python, SQL, MongoDB, and R, which I use to build data-driven solutions and analyze complex linguistic patterns.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
