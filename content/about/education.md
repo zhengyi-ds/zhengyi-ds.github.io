@@ -30,7 +30,7 @@ experience:
     date_start: '2024-09-01'
     #date_end: '2025-06-30'
     description: |
-    Pursuing advanced knowledge and practical expertise in data science with a focus on computational linguistics, exploring areas such as natural language processing (NLP), machine learning, and data analysis techniques.
+      Pursuing advanced knowledge and practical expertise in data science with a focus on computational linguistics, exploring areas such as natural language processing (NLP), machine learning, and data analysis techniques.
   - title: Exchange Program in Quantitative Social Analysis
     company: Hong Kong University of Science and Technology
     company_url: ''
@@ -45,8 +45,8 @@ experience:
     location: ''
     date_start: '2020-09-01'
     date_end: '2024-06-30'
-    description: |
-    Graduated with Distinction (GPA: 91.2%)
+    description: | 
+      Graduated with Distinction (GPA: 91.2%)
 
 design:
   columns: '1'
