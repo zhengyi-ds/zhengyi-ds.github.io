@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include nlp, machine learning and data science.
+bio: My interests include nlp, machine learning and data analysis.
 
 #interests:
 #- Artificial Intelligence
