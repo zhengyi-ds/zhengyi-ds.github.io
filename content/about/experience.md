@@ -32,7 +32,6 @@ experience:
     description:  |
     - Designed an automated system to parse and categorize daily NFDD PDF updates, reducing manual processing time by 80% and error rates by 15%.
     - Streamlined workflows using data chunking and classification, cutting 90% irrelevant data and boosting database accuracy/retrieval efficiency.
-    
   - title: Research Assistant
     company: Univeristy of British Columbia
     company_url: ''
@@ -42,7 +41,6 @@ experience:
     date_end: '2025-07-01'
     description:  |
     - Processed 500-hour multilingual audio datasets with Pandas and automated workflows, cutting preprocessing time by 50% for linguistic analysis in Praat.
-
   - title: AI Speech Testing Intern
     company: NetEase Youdao
     company_url: ''
