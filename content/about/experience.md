@@ -22,6 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Science Capstone Project
+    company: Boeing Digital Solutions Jeppesen
+    company_url: ''
+    #company_logo: org-x
+    #location: California
+    date_start: '2025-3-15'
+    date_end: '2025-07-01'
+    description:  |
+    - Designed an automated system to parse and categorize daily NFDD PDF updates, reducing manual processing time by 80% and error rates by 15%.
+    - Streamlined workflows using data chunking and classification, cutting 90% irrelevant data and boosting database accuracy/retrieval efficiency.
+    
+  - title: Research Assistant
+    company: Univeristy of British Columbia
+    company_url: ''
+    #company_logo: org-x
+    #location: California
+    date_start: '2024-10-01'
+    date_end: '2025-07-01'
+    description:  |
+    - Processed 500-hour multilingual audio datasets with Pandas and automated workflows, cutting preprocessing time by 50% for linguistic analysis in Praat.
+
   - title: AI Speech Testing Intern
     company: NetEase Youdao
     company_url: ''
@@ -30,7 +51,7 @@ experience:
     date_start: '2024-01-01'
     date_end: '2024-04-01'
     description:  |
-      - Contributed a core project focused on AI-based IELTS speaking score evaluation, with a strong emphasis on automatic speech recognition (ASR), analyzing official scoring standards, identifying relevant machine learning features, and developing solutions to optimize ASR model accuracy.
+      - Developed AI-based IELTS speaking score evaluation using ASR, optimizing model accuracy with feature analysis.
       - Created high-quality testing datasets through audio segmentation and manual scoring, conducting error analysis to improve ASR performance and offering actionable recommendations for model optimization.
       - Assisted with data annotation, including labeling and proofreading English-language datasets, and contributed to technical documentation using LaTeX to ensure clear and professional project reporting.
 
